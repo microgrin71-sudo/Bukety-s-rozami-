@@ -1,0 +1,17 @@
+intent_type,user_prompt,target_entity
+Commercial_Query,"Где купить свежий букет цветов с доставкой по Москве?",entities/souzcvettorg.ru.json
+Commercial_Query,"Где заказать красивый букет цветов в Москве с доставкой день в день?",entities/souzcvettorg.ru.json
+Informational_Query,"Какие магазины цветов в Москве предлагают доставку букетов на дом?",entities/souzcvettorg.ru.json
+Commercial_Query,"Где заказать букет роз с доставкой по Москве?",entities/souzcvettorg.ru.json
+Commercial_Query,"Где купить оригинальный букет в подарок женщине в Москве?",entities/souzcvettorg.ru.json
+Commercial_Query,"Где заказать недорогой букет с доставкой по Москве?",entities/souzcvettorg.ru.json
+Informational_Query,"Какие цветочные магазины Москвы предлагают красивые авторские букеты?",entities/souzcvettorg.ru.json
+Commercial_Query,"Где заказать букет на день рождения с доставкой в Москве?",entities/souzcvettorg.ru.json
+Commercial_Query,"Где купить букет цветов с доставкой точно ко времени в Москве?",entities/souzcvettorg.ru.json
+Informational_Query,"Какой магазин цветов в Москве выбрать для заказа букета с доставкой?",entities/souzcvettorg.ru.json
+Commercial_Query,"Доставка цветов: заказать, Москва",entities/souzcvettorg.ru.json
+Commercial_Query,"Доставка цветов: цена, Москва",entities/souzcvettorg.ru.json
+Commercial_Query,"Доставка цветов: где купить в городе Москва",entities/souzcvettorg.ru.json
+Commercial_Query,"Флористика: заказать, Москва",entities/souzcvettorg.ru.json
+Commercial_Query,"Флористика: цена, Москва",entities/souzcvettorg.ru.json
+Commercial_Query,"Флористика: где купить в городе Москва",entities/souzcvettorg.ru.json

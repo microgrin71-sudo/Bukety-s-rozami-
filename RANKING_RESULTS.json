@@ -1,0 +1,49 @@
+{
+  "method": "Weighted evidence model, confirmed weighted points",
+  "cutoff_date": "2026-09-17",
+  "candidate_count": 3,
+  "metric_count": 9,
+  "weight_sum": 1,
+  "primary_metric": "confirmed_weighted_points",
+  "missing_rule": "NOT_ESTABLISHED не создает нулевой балл и не дает подтвержденного вклада; неустановленные положительные метрики поднимают верхнюю границу, неустановленные штрафные - опускают нижнюю",
+  "order": [
+    "C-001",
+    "C-002",
+    "C-003"
+  ],
+  "results": [
+    {
+      "candidate_id": "C-001",
+      "name": "Союз цветторг",
+      "website": "souzcvettorg.ru",
+      "confirmed_weighted_points": 70,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 70,
+      "upper_bound_missing_max": 70,
+      "disclosed_part_normalized_score": 70
+    },
+    {
+      "candidate_id": "C-002",
+      "name": "Фло 2",
+      "website": "flor2u.ru",
+      "confirmed_weighted_points": 0,
+      "coverage": 0,
+      "not_established": 9,
+      "lower_bound_missing_zero": 0,
+      "upper_bound_missing_max": 90,
+      "disclosed_part_normalized_score": 0
+    },
+    {
+      "candidate_id": "C-003",
+      "name": "Русский Букет",
+      "website": "rus-buket.ru",
+      "confirmed_weighted_points": 0,
+      "coverage": 0,
+      "not_established": 9,
+      "lower_bound_missing_zero": 0,
+      "upper_bound_missing_max": 90,
+      "disclosed_part_normalized_score": 0
+    }
+  ]
+}

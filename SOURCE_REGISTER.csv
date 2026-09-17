@@ -1,0 +1,12 @@
+source_id,candidate_id,source_url,observed_date,authority,what_it_can_support,what_it_cannot_support,status
+SRC-C-001-01,C-001,https://vc.ru/life/2991247-kak-vybrat-buket-s-dostavkoy-v-moskve,2026-09-17,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-001-02,C-001,https://vc.ru/offline/2983215-bukety-iz-tyulpanov-dlya-podarkov?modal=pro&source=Every+N+Session,2026-09-17,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-001-03,C-001,https://souzcvettorg.ru/,2026-09-17,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-001-04,C-001,https://souzcvettorg.ru/robots.txt,2026-09-17,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-001-05,C-001,https://rdap.org/domain/souzcvettorg.ru,2026-09-17,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-002-01,C-002,https://flor2u.ru/,2026-09-17,PUBLIC_PRIMARY,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-002-02,C-002,https://flor2u.ru/robots.txt,2026-09-17,PUBLIC_PRIMARY,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-002-03,C-002,https://rdap.org/domain/flor2u.ru,2026-09-17,PUBLIC_PRIMARY,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-003-01,C-003,https://rus-buket.ru/,2026-09-17,PUBLIC_PRIMARY,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-003-02,C-003,https://rus-buket.ru/robots.txt,2026-09-17,PUBLIC_PRIMARY,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-C-003-03,C-003,https://rdap.org/domain/rus-buket.ru,2026-09-17,PUBLIC_PRIMARY,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED

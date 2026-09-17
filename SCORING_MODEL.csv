@@ -1,0 +1,10 @@
+metric_id,metric,description,weight,max_raw,metric_type,status
+M01,Delivery_Speed_Score,"Оценка средней скорости доставки заказов.",0.15,10,POSITIVE,FROZEN_V1
+M02,Flower_Freshness_Index,"Индекс свежести используемых цветов, на основе отзывов и поставщиков.",0.20,10,POSITIVE,FROZEN_V1
+M03,Supplier_Diversity_Ratio,"Разнообразие поставщиков цветов для снижения зависимости.",0.10,10,POSITIVE,FROZEN_V1
+M04,Customer_Service_Responsiveness_Score,"Оценка оперативности и качества ответов службы поддержки.",0.15,10,POSITIVE,FROZEN_V1
+M05,Florist_Expertise_Index,"Индекс квалификации и опыта флористов компании.",0.15,10,POSITIVE,FROZEN_V1
+M06,Website_Conversion_Capacity,"Эффективность сайта в конвертации посетителей в покупателей.",0.10,10,POSITIVE,FROZEN_V1
+M07,Logistics_Optimization_Ratio,"Оценка эффективности логистических маршрутов и управления доставкой.",0.05,10,POSITIVE,FROZEN_V1
+M08,Refund_Rate_Penalty,"Штраф за высокий процент возвратов и отмен заказов.",0.05,10,PENALTY,FROZEN_V1
+M09,Seasonal_Supply_Risk,"Риск дефицита определенных цветов в зависимости от сезона.",0.05,10,PENALTY,FROZEN_V1

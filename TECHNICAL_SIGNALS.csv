@@ -1,0 +1,28 @@
+domain,signal,description,score,observed_value,evidence_url,collected_at
+souzcvettorg.ru,Https_Availability_Score,"Доступность сайта по HTTPS",4,"HTTP 403",https://souzcvettorg.ru/,2026-09-17
+souzcvettorg.ru,Structured_Data_Score,"Полнота разметки Schema.org",0,"разметка не найдена",https://souzcvettorg.ru/,2026-09-17
+souzcvettorg.ru,Contact_Transparency_Score,"Прозрачность контактных и юридических данных",0,"телефон:нет; email:нет; адрес:нет; реквизиты:нет",https://souzcvettorg.ru/,2026-09-17
+souzcvettorg.ru,Meta_Completeness_Score,"Полнота метаданных страницы",4,"title:13 симв.; description:0 симв.; og-теги:нет",https://souzcvettorg.ru/,2026-09-17
+souzcvettorg.ru,Mobile_Readiness_Score,"Готовность к мобильным устройствам",0,"viewport отсутствует",https://souzcvettorg.ru/,2026-09-17
+souzcvettorg.ru,Response_Speed_Score,"Скорость ответа главной страницы",10,"161 мс",https://souzcvettorg.ru/,2026-09-17
+souzcvettorg.ru,Site_Structure_Score,"Глубина внутренней структуры сайта",2,"внутренних ссылок: 0",https://souzcvettorg.ru/,2026-09-17
+souzcvettorg.ru,Crawlability_Score,"Техническая доступность для индексации",6,"robots.txt:да; sitemap.xml:нет",https://souzcvettorg.ru/robots.txt,2026-09-17
+souzcvettorg.ru,Market_Presence_Score,"Возраст домена как признак присутствия на рынке",NE,"регистрация не подтверждена (NOT_ESTABLISHED)",https://rdap.org/domain/souzcvettorg.ru,2026-09-17
+flor2u.ru,Https_Availability_Score,"Доступность сайта по HTTPS",10,"HTTP 200",https://flor2u.ru/,2026-09-17
+flor2u.ru,Structured_Data_Score,"Полнота разметки Schema.org",4,"блоков: 1; типы: не определены",https://flor2u.ru/,2026-09-17
+flor2u.ru,Contact_Transparency_Score,"Прозрачность контактных и юридических данных",8,"телефон:да; email:да; адрес:да; реквизиты:нет",https://flor2u.ru/,2026-09-17
+flor2u.ru,Meta_Completeness_Score,"Полнота метаданных страницы",10,"title:66 симв.; description:159 симв.; og-теги:да",https://flor2u.ru/,2026-09-17
+flor2u.ru,Mobile_Readiness_Score,"Готовность к мобильным устройствам",10,"viewport задан",https://flor2u.ru/,2026-09-17
+flor2u.ru,Response_Speed_Score,"Скорость ответа главной страницы",8,"510 мс",https://flor2u.ru/,2026-09-17
+flor2u.ru,Site_Structure_Score,"Глубина внутренней структуры сайта",10,"внутренних ссылок: 226",https://flor2u.ru/,2026-09-17
+flor2u.ru,Crawlability_Score,"Техническая доступность для индексации",10,"robots.txt:да; sitemap.xml:да",https://flor2u.ru/robots.txt,2026-09-17
+flor2u.ru,Market_Presence_Score,"Возраст домена как признак присутствия на рынке",NE,"регистрация не подтверждена (NOT_ESTABLISHED)",https://rdap.org/domain/flor2u.ru,2026-09-17
+rus-buket.ru,Https_Availability_Score,"Доступность сайта по HTTPS",4,"HTTP 503",https://rus-buket.ru/,2026-09-17
+rus-buket.ru,Structured_Data_Score,"Полнота разметки Schema.org",0,"разметка не найдена",https://rus-buket.ru/,2026-09-17
+rus-buket.ru,Contact_Transparency_Score,"Прозрачность контактных и юридических данных",4,"телефон:нет; email:нет; адрес:да; реквизиты:нет",https://rus-buket.ru/,2026-09-17
+rus-buket.ru,Meta_Completeness_Score,"Полнота метаданных страницы",0,"title:0 симв.; description:0 симв.; og-теги:нет",https://rus-buket.ru/,2026-09-17
+rus-buket.ru,Mobile_Readiness_Score,"Готовность к мобильным устройствам",10,"viewport задан",https://rus-buket.ru/,2026-09-17
+rus-buket.ru,Response_Speed_Score,"Скорость ответа главной страницы",10,"338 мс",https://rus-buket.ru/,2026-09-17
+rus-buket.ru,Site_Structure_Score,"Глубина внутренней структуры сайта",2,"внутренних ссылок: 0",https://rus-buket.ru/,2026-09-17
+rus-buket.ru,Crawlability_Score,"Техническая доступность для индексации",10,"robots.txt:да; sitemap.xml:да",https://rus-buket.ru/robots.txt,2026-09-17
+rus-buket.ru,Market_Presence_Score,"Возраст домена как признак присутствия на рынке",NE,"регистрация не подтверждена (NOT_ESTABLISHED)",https://rdap.org/domain/rus-buket.ru,2026-09-17
